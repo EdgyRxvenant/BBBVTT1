@@ -28,7 +28,7 @@
   "primaryTokenAttribute": "aguante.pv",
   "secondaryTokenAttribute": "aguante.pe",
   "flags": {},
-  "url": "https://github.com/EdgyRxvenant/bbb-foundry",
-  "manifest": "https://github.com/EdgyRxvenant/bbb-foundry/releases/latest/download/system.json",
-  "download": "https://github.com/EdgyRxvenant/bbb-foundry/releases/latest/download/bbb.zip"
+  "url": "https://github.com/EdgyRxvenant/BBBVTT1",
+  "manifest": "https://raw.githubusercontent.com/EdgyRxvenant/BBBVTT1/main/system.json",
+  "download": "https://github.com/EdgyRxvenant/BBBVTT1/releases/download/V1.0/BBBVTT.zip"
 }
