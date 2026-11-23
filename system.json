@@ -1,0 +1,34 @@
+{
+  "id": "bbb",
+  "title": "Big Bang Breaker",
+  "description": "Sistema no oficial de Big Bang Breaker (BBB) para Foundry VTT. Fichas de Argonauta y PNJ, tiradas con Determinación/Desesperación, Fortuna/Infortunio, daño, Blindaje, Escudo, Heridas de Batalla y Garras de la Muerte.",
+  "version": "0.1.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "BBB"
+    }
+  ],
+  "esmodules": [
+    "module/bbb.mjs"
+  ],
+  "styles": [
+    "styles/bbb.css"
+  ],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "primaryTokenAttribute": "aguante.pv",
+  "secondaryTokenAttribute": "aguante.pe",
+  "flags": {},
+  "url": "https://github.com/TU_USUARIO/bbb-foundry",
+  "manifest": "https://github.com/TU_USUARIO/bbb-foundry/releases/latest/download/system.json",
+  "download": "https://github.com/TU_USUARIO/bbb-foundry/releases/latest/download/bbb.zip"
+}
